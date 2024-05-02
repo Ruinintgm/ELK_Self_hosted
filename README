@@ -1,0 +1,3 @@
+** ELK Stack
+'''docker compose up -d''' for deploy
+don't forget to change variables in .env
